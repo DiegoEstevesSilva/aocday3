@@ -24,5 +24,3 @@ for rucksack in rucksacks:
             break
 
 print(prio_sum)
-
-
