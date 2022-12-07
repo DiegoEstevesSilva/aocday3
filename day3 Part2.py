@@ -1,5 +1,3 @@
-import math
-
 def get_prio (character):
     if character.islower():
         return ord(character) - 97 + 1 
